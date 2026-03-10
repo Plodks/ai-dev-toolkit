@@ -1,6 +1,6 @@
 {
   "name": "plodks-ai-dev-toolkit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "高效AI开发工具包 - 简化模型调用、数据预处理和结果分析",
   "main": "index.js",
   "scripts": {
