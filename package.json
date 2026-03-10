@@ -17,7 +17,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Plodks/ai-dev-toolkit.git"
+    "url": "url": "git+https://github.com/Plodks/ai-dev-toolkit.git"
   },
   "bugs": {
     "url": "https://github.com/Plodks/ai-dev-toolkit/issues"
