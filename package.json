@@ -1,0 +1,27 @@
+{
+  "name": "ai-dev-toolkit",
+  "version": "1.0.0",
+  "description": "高效AI开发工具包 - 简化模型调用、数据预处理和结果分析",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ai",
+    "machine-learning",
+    "developer-tools",
+    "automation",
+    "china"
+  ],
+  "author": "小辣椒",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-username/ai-dev-toolkit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/ai-dev-toolkit/issues"
+  },
+  "homepage": "https://github.com/your-username/ai-dev-toolkit#readme",
+  "type": "commonjs"
+}
